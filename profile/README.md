@@ -8,6 +8,11 @@
 
 We are Puzzlers Labs. A Bespoke Software Development Company.
 
+<details>
+    <summary>About Us</summary>
+    Something small enough to escape casual notice.
+</details>
+
 <!--
 
 **Here are some ideas to get you started:**
