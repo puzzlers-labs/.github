@@ -1,2 +1,1 @@
-# .github
-GitHub Profile of Puzzlers Labs
+This is just README of the repository. README of the profile is inside `profile` directory.`
