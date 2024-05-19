@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  Hello | नमस्ते | สวัสดี | Bonjour | Hola | مرحبا | こんにちは
+  Hello | नमस्ते | Bonjour | สวัสดี | Hola | مرحبا | こんにちは
 </h1>
 
 We are Puzzlers Labs. A Bespoke Software Development Company.
