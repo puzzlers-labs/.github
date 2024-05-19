@@ -17,9 +17,11 @@ We are Puzzlers Labs. A Bespoke Software Development Company.
     Something small enough to escape casual notice.
 </details>
 
+```mermaid
 pie
 "Movies" : 80
 "TV shows" : 20
+```
 
 ---
 
