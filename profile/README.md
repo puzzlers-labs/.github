@@ -4,7 +4,7 @@
 
 ## Hey! 👋
 
-We are Puzzlers.
+We are Puzzlers Labs. A Bespoke Software Development Company.
 
 <!--
 
