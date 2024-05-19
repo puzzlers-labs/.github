@@ -1,5 +1,9 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/logo.png" alt="Puzzlers Labs" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/dark_mode_logo.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/light_mode_logo.png">
+    <img alt="Puzzlers Labs" src="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/light_mode_logo.png">
+  </picture>
 </p>
 
 <h1 align="center">
@@ -7,12 +11,6 @@
 </h1>
 
 We are Puzzlers Labs. A Bespoke Software Development Company.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/dark_mode_logo.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/light_mode_logo.png">
-  <img alt="Puzzlers Labs" src="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/light_mode_logo.png" width="200">
-</picture>
 
 <details>
     <summary>About Us</summary>
