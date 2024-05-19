@@ -1,8 +1,10 @@
-<h1 align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/logo.png" alt="Puzzlers Labs" />
-</h1>
+</p>
 
-## Hello | Namaste | Sá-wat-dee | Bonjour | Hola | Marhaba | Konnichiwa
+<h1 align="center">
+  Hello | Namaste | Sá-wat-dee | Bonjour | Hola | Marhaba | Konnichiwa
+</h1>
 
 We are Puzzlers Labs. A Bespoke Software Development Company.
 
