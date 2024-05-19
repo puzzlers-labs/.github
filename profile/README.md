@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/logo.png" alt="Puzzlers Labs" />
 </h1>
 
-## Hey! 👋
+## Hello | Namaste | Sá-wat-dee | Bonjour | Hola | Marhaba | Konnichiwa
 
 We are Puzzlers Labs. A Bespoke Software Development Company.
 
