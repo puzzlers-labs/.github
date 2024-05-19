@@ -17,8 +17,8 @@ We are Puzzlers Labs. A Bespoke Software Development Company.
     Something small enough to escape casual notice.
 </details>
 
-> [!Try Me]
-> Try changing the theme and see the logo change on this README.
+[!Try Me]
+Try changing the theme and see the logo change on this README.
 
 <!--
 
