@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/puzzlers-labs/.github/profile/assets/logo.png" alt="Puzzlers Labs" />
+  <img src="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/logo.png" alt="Puzzlers Labs" />
 </h1>
 
 ## Hey! 👋
