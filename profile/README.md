@@ -1,3 +1,4 @@
+[![Puzzlers Hero Image](images/puzzlers_banner.png)](https://github.com/puzzlers-labs)
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/puzzlers-labs/.github/main/profile/assets/dark_mode_logo.png">
