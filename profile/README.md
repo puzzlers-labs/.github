@@ -61,7 +61,7 @@ Follow us to stay updated with the latest projects and innovations from Puzzlers
 </picture>
 
 > [!TIP]
-> Try changing the theme and see the logo change on this README.
+> **Tip:** Switch between light and dark themes to see the logo adapt accordingly.
 
 <p align="center">
 	<i>𝓯𝓲𝓷</i>
