@@ -1,4 +1,4 @@
-![Puzzlers Labs Banner](.github/images/banner.png)
+[![Puzzlers Labs Banner](.github/images/banner.png)](https://github.com/puzzlers-labs/)
 
 # Puzzlers Labs GitHub Profile
 
