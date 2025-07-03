@@ -37,6 +37,7 @@ At Puzzlers Labs, we value community-driven development. Many of our projects ar
 Explore some of our open-source repositories:
 
 - [Stupid Simple Meta Tags](https://github.com/puzzlers-labs/stupid_simple_meta_tags) - A WordPress plugin simplifying metadata management for better SEO and social media visibility.
+- [Chrome Webstore Publish](https://github.com/marketplace/actions/chrome-webstore-publish) - A GitHub Action to automates Chrome extension packaging and Web Store publication directly from your continuous integration pipeline.
 
 
 
